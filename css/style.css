@@ -1,0 +1,20 @@
+    body {
+      text-align: center;
+      background: url("https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8gB60JCekew/v0/-1x-1.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: HanziPen TC;
+    }
+    p {
+         font-size: 30px;
+       }
+       input {
+         border: 0;
+         padding: 10px;
+         font-size: 18px;
+       }
+       input[type="search"] {
+         background: white;
+         color: black;
+       }
