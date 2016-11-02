@@ -6,6 +6,12 @@ div.container {
     border: 1px solid gray;
 }
 
+div.container2 {
+    width: 100%;
+    border: 1px solid red;
+    text-align:center;
+}
+
 header, footer {
     padding: 1em;
     color: white;
