@@ -59,3 +59,7 @@ a:hover, a:active {
     background-color:#534123;
     font-size: 200%;
 }
+
+input {
+    margin: 10px 10px 10px 50px;
+}
