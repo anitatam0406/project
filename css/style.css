@@ -9,6 +9,7 @@ div.container {
 div.container2 {
     width: 100%;
     text-align:center;
+    background-color: #CDC6AE;
 }
 
 header, footer {
