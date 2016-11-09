@@ -20,6 +20,7 @@ header, footer {
 }
 
 nav {
+    position: fixed;
     float: left;
     max-width: 160px;
     margin: 0;
@@ -58,4 +59,3 @@ a:hover, a:active {
     background-color:#534123;
     font-size: 200%;
 }
-
