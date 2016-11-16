@@ -1,6 +1,7 @@
 input{float padding-right: }
 
 
+
 div.container {
     width: 100%;
     border: 1px solid gray;
@@ -19,7 +20,10 @@ header, footer {
     background-color:#728972;
     clear: left;
     text-align: center;
+    font-family: 'Monoton', cursive;
 }
+
+
 
 nav {
     position: fixed;
@@ -42,8 +46,11 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
-}
+    background-image: url("background.jpeg");
+     background-position: right bottom;
+    background-repeat:  repeat;
 
+}
 
 
 nav ul li a:link, nav ul li a:visited, .container2 a:link, .container2 a:visited {
